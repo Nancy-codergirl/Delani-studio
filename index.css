@@ -15,7 +15,7 @@
     background-image:url("./assets/backgrounds/c_image.jpg");
     background-repeat:no-repeat;
     background-size:cover;
-    color:white;
+    color:transparent
 }
 .header-section {
     text-align: center;
@@ -26,3 +26,51 @@
     color:white;
     
   }
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+/* style the service section */
+#service p{
+    font-family: 'Montserrat', sans-serif;
+}
+#service{
+    background-image:url("./assets/backgrounds/s_image.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+/* style What we Do section */
+#design-description{
+    display:none;
+    font-family: 'Montserrat', sans-serif;
+}
+#development-description{
+    display: none;
+    font-family: 'Montserrat', sans-serif;
+}
+#product-description{
+    display: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* style portfolio section */
+.portfolio-img{
+    position: relative;
+}
+.image-overlay{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background:rgba(148, 144, 144, 0.6);
+    color: white;
+    font-family: fantasy;
+    font-weight: 900;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+    border: 15px solid whitesmoke;
+    opacity: 0;
+}

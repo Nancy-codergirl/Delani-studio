@@ -1,19 +1,24 @@
-* {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;700&display=swap');
+*{
     margin: 0;
     padding: 0;
 }
-
-.header
-    text-align: center
-    background-image
+/* style the header */
+#header{
+    background-image:url("./assets/backgrounds/h_img.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    min-height:80vh;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-body{
-    margin: 0;
-    padding: 0;
-    font-family: 'poppins';
-    box-sizing: border-box;
-    width:100%;
-    margin: auto;
-    }
+/* style the contact form */
+#contact-section{
+    background-image:url("./assets/backgrounds/c_image.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    color:white;
+}
+.btn-submit{
+    font-weight: 900;
+    border: 1px solid white;
+    display: inline-block;
+}

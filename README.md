@@ -1,5 +1,5 @@
 # Delani Studio
-This website is a portfolio for a studio showing the diffrent services provide showcasing the diffrent projects worked on by the team.
+This website is a landing page for delani studio showcasing the different projects worked on by the team.
 The site will help clients see the projects worked on and be able to make contact and make bookings.
  ## The live link to my site is
   

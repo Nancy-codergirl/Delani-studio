@@ -10,5 +10,20 @@ document.getElementById('submit').addEventListener('click', function () {
     }
 })
 
+   // toggle images to get details
+   $(".design").click(function () {
+    $("#design-img, #design-description").toggle();
+})
 
+//development
+$(".devolop").click(function () {
+    $("#dev-image, #developmentdetails").toggle();
+})
+
+//product
+$(".product").click(function () {
+    $("#product-image, #productdetails").toggle();
+})
+
+//adding hover effect
 

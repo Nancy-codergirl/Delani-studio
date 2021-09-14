@@ -95,7 +95,7 @@ color:white;
 
 #namebar{
 background: transparent;
-color: white;
+color: #8ea3a1;
 border: solid 1px #fff;
 width: 295px;
 }
@@ -105,12 +105,13 @@ width: 295px;
 }
 #emailbar{
   background: transparent;
-  color: white;
-  border: solid 1px #fff; 
+  color: #8ea3a1;
+  border: solid 1px;
   width: 295px;
 }  
 #messagebar{
 background:transparent;
+text-decoration-color: aqua;
 }  
 
 .social-icons a:hover img{
@@ -129,12 +130,12 @@ background:transparent;
             position: relative;
           }
           #designdetails >p {
-    font-size: 10px;
+    font-size: 20px;
           }
           #developmentdetails >p{
-            font-size: 10px;
+            font-size: 20px;
           }
     
           #productdetails>p{
-            font-size: 10px;
+            font-size: 20px;
           }

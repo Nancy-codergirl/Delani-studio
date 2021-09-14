@@ -3,6 +3,7 @@ This website is a landing page for delani studio showcasing the different projec
 
 The site will help clients see the projects worked on and be able to make contact and make bookings.
  ## The live link to my site is
+ * https://nancy-codergirl.github.io/Delani-studio/
   
 ## Project Setup Instructions
 * Clone the repository and modify the content of index.html according to your requirement.

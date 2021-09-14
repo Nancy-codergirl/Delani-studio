@@ -123,3 +123,25 @@ background:transparent;
 .social-icons a:hover img{
   transform: translateY(-10px);
 }
+#designdetails {
+    display: none;
+          }
+          #developmentdetails{
+    display: none;
+          }
+          #productdetails{
+    display: none;
+          }
+          #projectpic {
+            position: relative;
+          }
+          #designdetails >p {
+    font-size: 10px;
+          }
+          #developmentdetails >p{
+            font-size: 10px;
+          }
+    
+          #productdetails>p{
+            font-size: 10px;
+          }

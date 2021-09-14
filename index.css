@@ -5,14 +5,14 @@
 }
 /* style the header */
 #header{
-    background-image:url("./assets/backgrounds/h_img.jpg");
+    background-image:url("assets/backgrounds/h_img.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     min-height:80vh;
 }
 /* style the contact form */
 #contact-section{
-    background-image:url("./assets/backgrounds/c_image.jpg");
+    background-image:url("assets/backgrounds/c_image.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     color:transparent

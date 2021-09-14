@@ -1,7 +1,4 @@
-function style(){
-    $("#what-we-do h5").addClass("text-center fw-bold")
-    $("#what-we-do p").addClass("text-center")
-    $(document).ready(function(){
+$(document).ready(function(){
  
 
         // toggle images to get details
@@ -111,7 +108,4 @@ function style(){
         } else {
             alert("Please fill all !");
         }
-    })
-    
-    
-    })
+    }
